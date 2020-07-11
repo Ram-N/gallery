@@ -1,4 +1,5 @@
 {
+  "1_trapeze": [],
   "Bubbles": [
     {
       "width": 919,
@@ -33,98 +34,6 @@
       "compressed_path": "./photos/Butterflies/orange_butterflies.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Butterflies/orange_butterflies.placeholder.jpg"
-    }
-  ],
-  "Camera_Shutter": [
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/Camera_Shutter/Camera_shutter2020-04-25_19-49-38_PM.jpg",
-      "compressed_path": "./photos/Camera_Shutter/Camera_shutter2020-04-25_19-49-38_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Camera_Shutter/Camera_shutter2020-04-25_19-49-38_PM.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/Camera_Shutter/Camera_shutter2020-04-25_19-50-57_PM.jpg",
-      "compressed_path": "./photos/Camera_Shutter/Camera_shutter2020-04-25_19-50-57_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Camera_Shutter/Camera_shutter2020-04-25_19-50-57_PM.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/Camera_Shutter/Camera_shutter2020-04-25_19-51-26_PM.jpg",
-      "compressed_path": "./photos/Camera_Shutter/Camera_shutter2020-04-25_19-51-26_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Camera_Shutter/Camera_shutter2020-04-25_19-51-26_PM.placeholder.jpg"
-    },
-    {
-      "width": 1080,
-      "height": 1080,
-      "path": "./photos/Camera_Shutter/Camera_shutter2020-04-25_19-52-11_PM.jpg",
-      "compressed_path": "./photos/Camera_Shutter/Camera_shutter2020-04-25_19-52-11_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Camera_Shutter/Camera_shutter2020-04-25_19-52-11_PM.placeholder.jpg"
-    }
-  ],
-  "Parallel Lines": [
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/Parallel Lines/Parallel_lines2020-05-11_18-45-55_PM.jpg",
-      "compressed_path": "./photos/Parallel Lines/Parallel_lines2020-05-11_18-45-55_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Parallel Lines/Parallel_lines2020-05-11_18-45-55_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/Parallel Lines/Parallel_lines2020-05-11_18-48-28_PM.jpg",
-      "compressed_path": "./photos/Parallel Lines/Parallel_lines2020-05-11_18-48-28_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Parallel Lines/Parallel_lines2020-05-11_18-48-28_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/Parallel Lines/Parallel_lines_blk2020-05-11_18-40-01_PM.jpg",
-      "compressed_path": "./photos/Parallel Lines/Parallel_lines_blk2020-05-11_18-40-01_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Parallel Lines/Parallel_lines_blk2020-05-11_18-40-01_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/Parallel Lines/Parallel_lines_color_seq_2020-05-11_18-56-14_PM.jpg",
-      "compressed_path": "./photos/Parallel Lines/Parallel_lines_color_seq_2020-05-11_18-56-14_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Parallel Lines/Parallel_lines_color_seq_2020-05-11_18-56-14_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/Parallel Lines/Parallel_lines_color_seq_2020-05-11_18-58-56_PM.jpg",
-      "compressed_path": "./photos/Parallel Lines/Parallel_lines_color_seq_2020-05-11_18-58-56_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Parallel Lines/Parallel_lines_color_seq_2020-05-11_18-58-56_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/Parallel Lines/Parallel_lines_odd_man_2020-05-11_19-05-40_PM.jpg",
-      "compressed_path": "./photos/Parallel Lines/Parallel_lines_odd_man_2020-05-11_19-05-40_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Parallel Lines/Parallel_lines_odd_man_2020-05-11_19-05-40_PM.placeholder.jpg"
-    },
-    {
-      "width": 1296,
-      "height": 1296,
-      "path": "./photos/Parallel Lines/Parallel_lines_RED_BROWNS_HIGH_SAT2020-05-11_18-41-47_PM.jpg",
-      "compressed_path": "./photos/Parallel Lines/Parallel_lines_RED_BROWNS_HIGH_SAT2020-05-11_18-41-47_PM.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Parallel Lines/Parallel_lines_RED_BROWNS_HIGH_SAT2020-05-11_18-41-47_PM.placeholder.jpg"
     }
   ],
   "Traingles": [
